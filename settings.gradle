@@ -1,0 +1,6 @@
+rootProject.name='ModuleSample'
+include ':app'
+include ':module_base'
+include ':module_main'
+include ':module_a'
+include ':module_b'
